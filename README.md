@@ -37,7 +37,7 @@ I am a self-taught programmer with an interest in Analytics, Data & Software Eng
 ### Recent Project
 
 <p>
-  <h4>Reddit Extraction</h4>
+  <h4>Spotify Wrapped</h4>
   <a href="https://github.com/calbergs/spotify-api">
     <img width="400" src="https://github.com/calbergs/spotify-api/blob/master/images/spotify.drawio.svg" />
   </a>
