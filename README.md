@@ -3,7 +3,7 @@
 I'm interested in all things related to data/analytics engineering with my most recent experience being at Amazon and Goldman Sachs
 
 * 🌱  I'm always learning about new things in Python, SQL, AWS, and all things related to the modern data stack
-* 🖥️  Feel free to check out my most recent project where I recreated my own personal [Spotify Wrapped](https://github.com/calbergs/spotify-api)
+* 🖥️  Feel free to check out my most recent project where I recreated my own personal version of [Spotify Wrapped](https://github.com/calbergs/spotify-api)
 
 ### Tech
 
