@@ -38,19 +38,7 @@ I am a self-taught programmer with an interest in Analytics, Data & Software Eng
 
 <p>
   <h4>Reddit Extraction</h4>
-  <a href="https://github.com/ABZ-Aaron/Reddit-API-Pipeline">
+  <a href="https://github.com/calbergs/spotify-api">
     <img width="400" src="https://github.com/calbergs/spotify-api/blob/master/images/spotify.drawio.svg" />
   </a>
 </p>
-
-
-### GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abz-Aaron&show_icons=true&theme=tokyonight" width="400" height="150"/>
-</a>
-
-### Let's Connect
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abzaaron/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbzAaron)
