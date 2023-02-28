@@ -24,6 +24,6 @@ I'm interested in all things related to data/analytics engineering with my most 
 <p>
   <h4>Twitter Bot for Japanese Learners</h4>
   <a href="https://github.com/calbergs/twitter-bot-jlpt">
-    <img width="400" src="https://github.com/calbergs/twitter-bot-jlpt/blob/master/jlpt_bot.png" />
+    <img width="400" src="https://github.com/calbergs/twitter-bot-jlpt/blob/master/jlpt_bot_tweet.png" />
   </a>
 </p>
